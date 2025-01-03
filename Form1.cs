@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -34,7 +34,7 @@ namespace MyFormsProj
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            lblText.Text = "MohakJains";
+            lblText.Text = "MohakssSandeep";
         }
     }
 }
