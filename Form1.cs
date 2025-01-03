@@ -34,7 +34,7 @@ namespace MyFormsProj
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            lblText.Text = "";
+            lblText.Text = "1234";
         }
     }
 }
