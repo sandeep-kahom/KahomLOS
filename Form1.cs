@@ -34,7 +34,7 @@ namespace MyFormsProj
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            lblText.Text = "Mohak Jain";
+            lblText.Text = "Mohak Jain Class VII";
         }
     }
 }
